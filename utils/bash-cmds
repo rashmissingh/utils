@@ -1,0 +1,2 @@
+# find and remove files
+$ find <src_dir> -name *.temp -ok rm -Rf {} \;
